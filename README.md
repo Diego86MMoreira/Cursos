@@ -17,6 +17,7 @@ Aqui estão os cursos que realizei, organizados por área de conhecimento. Cada 
 **SQL**
 - [Conhecendo SQL](https://github.com/Diego86MMoreira/Conhecendo_SQL.git) (Alura) - Conclusão - Julho/2024
 - [Microsoft SQL Server 2022](https://github.com/Diego86MMoreira/SQL_SERVER_2022.git) (Alura) - Conclusão - Setembro/2024
+- [Data Warehouse com Data Lake e SQL Server](https://github.com/Diego86MMoreira/DW_DL_SQL_Server.git) (Alura) - Conclusão - Setembro/2024
 - [Análise de Dados do Básico ao Avançado](https://github.com/Diego86MMoreira/SQL_analise_de_dados_do_basico_ao_avancado.git) (Udemy) - (Em Andamento)
 - [Banco de Dados Relacionais](https://github.com/Diego86MMoreira/Banco_de_dados_Relacionais.git) (Udemy) - Conclusão: Fevereiro/2025
 - [Business Intelligence com SQL Server](https://github.com/Diego86MMoreira/Business_Intelligence_com_SQL_Server.git) (Udemy) - Conclusão: Março/2025 
