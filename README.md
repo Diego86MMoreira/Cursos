@@ -22,7 +22,7 @@ Aqui estão os cursos que realizei, organizados por área de conhecimento. Cada 
 
 
  **Engenharia de Dados e UML**
-- [Linguagem de Modelagem Unificada](https://github.com/Diego86MMoreira/Linguagem-de-Modelagem-Unificada.git) (Fundação Bradesco - Escola Virtual) - Conclusão: Janeiro/2025  
+- [Linguagem de Modelagem Unificada](https://github.com/Diego86MMoreira/Linguagem-de-Modelagem-Unificada.git) (Fundação Bradesco - Escola Virtual) - Conclusão: Janeiro/2023  
  
 
 
