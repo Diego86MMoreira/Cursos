@@ -15,6 +15,7 @@ Aqui estão os cursos que realizei, organizados por área de conhecimento. Cada 
 - [DAX no Power BI](https://github.com/Diego86MMoreira/DAX_Power_BI.git) (Alura) - Conclusão - Novembro/2024
 
 **SQL**
+- [Conhecendo SQL](https://github.com/Diego86MMoreira/Conhecendo_SQL.git) (Alura) - Conclusão - Julho/2024
 - [Análise de Dados do Básico ao Avançado](https://github.com/Diego86MMoreira/SQL_analise_de_dados_do_basico_ao_avancado.git) (Udemy) - (Em Andamento)
 - [Banco de Dados Relacionais](https://github.com/Diego86MMoreira/Banco_de_dados_Relacionais.git) (Udemy) - Conclusão: Fevereiro/2025
 - [Business Intelligence com SQL Server](https://github.com/Diego86MMoreira/Business_Intelligence_com_SQL_Server.git) (Udemy) - Conclusão: Março/2025 
