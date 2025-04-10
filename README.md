@@ -9,7 +9,8 @@ Aqui estão os cursos que realizei, organizados por área de conhecimento. Cada 
 
 
 **Visualização de Dados**
-- [Power BI - Data Science](https://github.com/Diego86MMoreira/PowerBI_DataScience.git) (Data Science Academy).
+- [Power BI - Data Science](https://github.com/Diego86MMoreira/PowerBI_DataScience.git) (Data Science Academy) - Conclusão: Mar/2024 
+- [Formação Power BI](https://github.com/Diego86MMoreira/Formacao_Power_BI.git). (Alura)
   
 
 **SQL**
