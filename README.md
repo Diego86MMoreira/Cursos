@@ -8,9 +8,12 @@
 Aqui estão os cursos que realizei, organizados por área de conhecimento. Cada link leva ao repositório específico com materiais, exercícios e certificados.
 
 
+**Análise de Dados e Inteligência de Negócios(BI)**
+- [Marketing Analytics](https://github.com/Diego86MMoreira/Marketing_Analytics.git) (Alura) - Conclusão - Outubro/2024
+
 **Visualização de Dados**
 - [Power BI - Data Science](https://github.com/Diego86MMoreira/PowerBI_DataScience.git) (Data Science Academy) - Conclusão: Maio/2023
-- [Formação Power BI](https://github.com/Diego86MMoreira/Formacao_Power_BI.git) (Alura) - Conclusão: Setembto/2024
+- [Formação Power BI](https://github.com/Diego86MMoreira/Formacao_Power_BI.git) (Alura) - Conclusão Setembto/2024
 - [Dominando Power BI](https://github.com/Diego86MMoreira/Dominando_PowerBI.git) (Alura) - Conclusão - Novembro/2024
 - [DAX no Power BI](https://github.com/Diego86MMoreira/DAX_Power_BI.git) (Alura) - Conclusão - Novembro/2024
 
